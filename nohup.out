@@ -1,0 +1,193 @@
+[I 07:17:18.758 NotebookApp] JupyterLab extension loaded from /home/hadron/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 07:17:18.758 NotebookApp] JupyterLab application directory is /home/hadron/anaconda3/share/jupyter/lab
+[I 07:17:18.760 NotebookApp] Serving notebooks from local directory: /mnt/disk/Qaphy/My Codes/PyTroch
+[I 07:17:18.760 NotebookApp] The Jupyter Notebook is running at:
+[I 07:17:18.760 NotebookApp] http://localhost:8888/?token=3300decf63d40cfa07e421f6dbcbaa6e5315db85db1f758e
+[I 07:17:18.760 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:17:18.761 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3300decf63d40cfa07e421f6dbcbaa6e5315db85db1f758e
+[I 07:17:19.168 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+Created new window in existing browser session.
+[I 07:17:25.933 NotebookApp] Creating new notebook in 
+[I 07:17:27.444 NotebookApp] Kernel started: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 07:17:28.118 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 07:19:27.970 NotebookApp] Saving file at /Basic Neural Network.ipynb
+[I 11:33:27.968 NotebookApp] Saving file at /Basic Neural Network.ipynb
+[I 11:43:27.970 NotebookApp] Saving file at /Basic Neural Network.ipynb
+[I 11:45:27.422 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:47:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:49:27.962 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:51:27.429 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:53:27.426 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:54:15.511 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:55:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:57:27.427 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 11:59:27.429 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:01:27.420 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:03:27.426 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:04:08.329 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:04:08.749 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:04:09.260 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:04:09.261 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:04:09.261 NotebookApp] Replaying 6 buffered messages
+[I 12:05:27.430 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:07:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:09:27.969 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:11:27.425 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:13:27.968 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:15:19.748 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:15:20.165 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:15:20.877 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:15:20.877 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:15:20.878 NotebookApp] Replaying 6 buffered messages
+[I 12:15:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:17:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:19:27.816 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:21:27.971 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:23:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:24:25.487 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:24:25.904 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:24:26.439 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:24:26.440 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:24:26.440 NotebookApp] Replaying 6 buffered messages
+[I 12:25:27.426 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:27:27.432 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:28:36.720 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:28:37.133 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:28:37.660 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:28:37.661 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:28:37.661 NotebookApp] Replaying 5 buffered messages
+[I 12:29:27.431 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:31:27.427 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:31:46.522 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:31:46.938 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:31:47.425 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:31:47.426 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:31:47.426 NotebookApp] Replaying 3 buffered messages
+[I 12:33:27.968 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:35:07.294 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:35:07.707 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:35:08.240 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:35:08.241 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:35:08.241 NotebookApp] Replaying 6 buffered messages
+[I 12:35:27.429 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:36:09.438 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:09.853 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:10.359 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:10.360 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:10.360 NotebookApp] Replaying 6 buffered messages
+[I 12:36:22.616 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:36:25.437 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:25.846 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:26.420 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:26.421 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:26.421 NotebookApp] Replaying 6 buffered messages
+[I 12:36:40.392 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:40.807 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:41.297 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:41.298 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:41.299 NotebookApp] Replaying 6 buffered messages
+[I 12:36:53.754 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:54.169 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:54.735 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:36:54.736 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:36:54.736 NotebookApp] Replaying 6 buffered messages
+[I 12:37:13.701 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:37:14.117 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:37:14.598 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:37:14.599 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:37:14.600 NotebookApp] Replaying 6 buffered messages
+[I 12:37:27.426 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:37:43.435 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:39:27.429 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:41:27.431 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:43:27.424 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:45:27.429 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:47:11.427 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:47:11.843 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:47:12.409 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:47:12.410 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:47:12.410 NotebookApp] Replaying 6 buffered messages
+[I 12:47:27.426 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:47:45.193 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:47:45.707 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:47:46.236 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:47:46.237 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:47:46.237 NotebookApp] Replaying 6 buffered messages
+[I 12:49:27.430 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:49:53.724 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:49:54.139 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:49:54.657 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:49:54.658 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:49:54.658 NotebookApp] Replaying 6 buffered messages
+[I 12:50:33.089 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:50:33.503 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:50:34.011 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:50:34.011 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:50:34.012 NotebookApp] Replaying 6 buffered messages
+[I 12:51:27.432 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:52:35.410 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:35.826 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:36.739 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:36.765 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:36.766 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:36.766 NotebookApp] Replaying 9 buffered messages
+[W 12:52:37.312 NotebookApp] Replacing stale connection: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:37.314 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:37.315 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:37.315 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:44.538 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:44.952 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:45.632 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:52:45.633 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:52:45.633 NotebookApp] Replaying 6 buffered messages
+[I 12:53:27.428 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:54:01.630 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:54:20.144 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:54:20.557 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:54:21.077 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:54:21.078 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:54:21.078 NotebookApp] Replaying 6 buffered messages
+[I 12:54:37.249 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:54:37.661 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:54:38.185 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:54:38.186 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:54:38.186 NotebookApp] Replaying 6 buffered messages
+[I 12:55:11.558 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:12.077 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:12.611 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:12.612 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:12.612 NotebookApp] Replaying 6 buffered messages
+[I 12:55:26.894 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:27.306 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:27.422 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:55:28.004 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:28.005 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:28.005 NotebookApp] Replaying 6 buffered messages
+[I 12:55:37.898 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:38.311 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:38.829 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:38.830 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:38.830 NotebookApp] Replaying 6 buffered messages
+[I 12:55:51.368 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:51.781 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:52.362 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:55:52.363 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:55:52.364 NotebookApp] Replaying 3 buffered messages
+[I 12:56:27.802 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:56:28.321 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:56:28.868 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:56:28.869 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:56:28.869 NotebookApp] Replaying 6 buffered messages
+[I 12:56:39.929 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:56:40.342 NotebookApp] Kernel restarted: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:56:40.903 NotebookApp] Adapting to protocol v5.1 for kernel fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
+[I 12:56:40.904 NotebookApp] Restoring connection for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:56:40.904 NotebookApp] Replaying 5 buffered messages
+[I 12:56:49.405 NotebookApp] Saving file at /Basic Neural Network for Iris.ipynb
+[I 12:57:06.058 NotebookApp] Saving file at /Sequential Model for Iris.ipynb
+[I 12:57:07.183 NotebookApp] Starting buffering for fb8b5dfc-ef9c-4de1-9d19-d11f6517d677:03e78f45a2a142aeb7b8308b85f7f627
+[I 12:57:10.705 NotebookApp] Kernel shutdown: fb8b5dfc-ef9c-4de1-9d19-d11f6517d677
